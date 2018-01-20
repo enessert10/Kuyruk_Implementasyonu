@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\bin\Debug\Banka_Kuyruk.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\obj\Debug\Banka_Kuyruk.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\obj\Debug\Banka_Kuyruk.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\obj\Debug\Banka_Kuyruk.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\obj\Debug\Banka_Kuyruk.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\bin\Debug\Banka_Kuyruk.exe
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\bin\Debug\Banka_Kuyruk.pdb
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\obj\Debug\Banka_Kuyruk.exe
+c:\users\user\documents\visual studio 2015\Projects\Banka_Kuyruk\Banka_Kuyruk\obj\Debug\Banka_Kuyruk.pdb
